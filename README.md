@@ -1,0 +1,2 @@
+# premium-furn-restore-001-furniture-restoration-damage-a
+Stop losing track of damage details and client notes across emails, photos, and paper forms. The Furniture Restoration Damage Assessment Hub turns chaos into clarity.  This Notion template centralizes every damage record, from photos and measurements to cost estimates and client approvals. It's built specifically for restoration workflows, so you n
